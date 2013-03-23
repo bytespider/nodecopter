@@ -1,0 +1,7 @@
+{
+  "name": "nodecopter-bath",
+  "version": "0.1.0",
+  "dependencies": {
+    "ar-drone": "0.0.5"
+  }
+}
